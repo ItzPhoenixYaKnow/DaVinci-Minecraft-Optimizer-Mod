@@ -1,0 +1,14 @@
+{
+    "loadingtitle": "DaVinci Minecraft Optimizer",
+    "loadingsubtitle": "v1.0.0-DEV",
+    "loadinganimation": "None",
+    "loadinganimationcolor": "0xFFFFFF",
+    "critparticletype": "DEFAULT",
+    "optimizationlevel": "10",
+    "comments": [
+        "Available Animations are None, Chicken, Wither, Paint",
+        "Colors follow a strict Color Format such as the following which is Black - 0xFF000000",
+        "optimizationlevel goes up to 10 being the heaviest and 1 being the weakest"
+      ]
+
+}
